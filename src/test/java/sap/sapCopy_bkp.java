@@ -19,7 +19,11 @@ public class sapCopy_bkp {
 		String un = "subasree.84@wipro.com";
 		String pw = "Krishna@22";
 		String mail = "Mail id here";
+<<<<<<< HEAD
 //b
+=======
+//a
+>>>>>>> bd77b3bf4caf7a4d1c4654fffb8369fcbcf87180
 		WebDriver driver = new ChromeDriver();
 		// driver.get("https://me.sap.com/");
 		driver.get("https://me.sap.com/userscontacts/usermanagement");
